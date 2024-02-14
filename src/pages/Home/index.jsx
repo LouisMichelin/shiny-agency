@@ -1,5 +1,9 @@
 function Home() {
-   return <div>Page d'Accueil</div>
+   return (
+      <div>
+         <h1>Page d'Accueil 🏡</h1>
+      </div>
+   );
 }
 
-export default Home
+export default Home;
