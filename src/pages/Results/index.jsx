@@ -1,9 +1,9 @@
-function Freelances() {
+function Results() {
    return (
       <div>
-         <h1>FREELANCES</h1>
+         <h1>Résultats</h1>
       </div>
    );
 }
 
-export default Freelances;
+export default Results;
